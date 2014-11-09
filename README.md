@@ -5,5 +5,5 @@ This is a simple touch gesture recognition application for Android phone and tab
 
 Android Version: uses-sdk android:minSdkVersion="13" android:targetSdkVersion="19".
 
-Copyright (c) 2014 Kimi Zhong.
+Copyright (c) 2014 Kimi Zhong. MOOC Programming Mobile App for Android Handheld Systems.
 Released under the GNU GPL v2.0 license. See LICENSE for details.
